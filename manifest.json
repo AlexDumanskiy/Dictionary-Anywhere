@@ -39,6 +39,7 @@
   },
 
   "permissions": [
+    "activeTab",
     "storage",
     "https://www.google.com/"
   ]
